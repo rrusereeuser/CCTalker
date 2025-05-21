@@ -1,5 +1,5 @@
 # CCTalker: When Compensatory Control Theory Meets 3D Emotional Talking Head Animation
-The official repository of the paper [CCTalker: When Compensatory Control Theory Meets 3D Emotional Talking Head Animation](https://arxiv.org/abs/2404.01647)
+The official repository of the paper [CCTalker: When Compensatory Control Theory Meets 3D Emotional Talking Head Animation](https://arxiv.org/abs/)
 
 <p align='center'>
   <b>
@@ -7,17 +7,18 @@ The official repository of the paper [CCTalker: When Compensatory Control Theory
     | 
     <a href="https://wangryhen.github.io/HSFTalk.github.io/">Project Page</a>
     |
-    <a href="https://github.com/wangryhen/HSFTalk_Anonymous">Code</a> 
+    <a href="[https://github.com/wangryhen/HSFTalk_Anonymous](https://github.com/rrusereeuser/CCTalker/edit/main/README.md)">Code</a> 
+    <a href="">Code</a> 
   </b>
 </p> 
 
 <!-- Colab notebook demonstration: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Egq0_ZK5sJAAawShxC0y4JRZQuVS2X-Z?usp=sharing) -->
 
   <p align='center'>  
-    <img src='/paper_images/framework.svg' width='1000'/>
+    <img src='/paper_images/CCTalker.svg' width='1000'/>
   </p>
 
-Given a speech signal as input, our framework <strong>HiSTalk</strong> can generate realistic 3D talking heads through the Hierarchical Speech Features to Sparse Landmarks <strong>(HSF2S)</strong> module and the Sparse Landmarks to Dense Landmarks Displacements <strong>(S2D)</strong> module.
+Given a speech signal as input, our framework <strong>CCTalker</strong> can generate realistic 3D talking head animtions through the Compensatory Control Theory <strong>(CCT)</strong> based diffusion processes.
 
 ## TODO
 - [x] **Release Arxiv paper.**
@@ -30,8 +31,8 @@ Given a speech signal as input, our framework <strong>HiSTalk</strong> can gener
 ## Citation	
 
 ```
-@article{2024histalk,
-  title={HiSTalk: Hierarchical Speech Feature-based Landmark Displacements for 3D Talking Head Animation},
+@article{2025cctalker,
+  title={CCTalker: When Compensatory Control Theory Meets 3D Emotional Talking Head Animation},
   author={},
   year={2025},
   eprint={},
@@ -43,17 +44,9 @@ Given a speech signal as input, our framework <strong>HiSTalk</strong> can gener
 
 ## Acknowledgement
 <!-- Some code are borrowed from following projects:
-* [SpeechFormer++](https://github.com/wyhsirius/LIA)
-* [Learning Landmarks](https://github.com/OpenTalker/DPE)
-* [EAT](https://github.com/yuangan/EAT_code)
-* [PD-FGC](https://github.com/Dorniwang/PD-FGC-inference)
-* [Wav2Lip](https://github.com/Rudrabha/Wav2Lip)
-* [FOMM video preprocessing](https://github.com/AliaksandrSiarohin/video-preprocessing) -->
-
- Some code and some figures in the paper are inspired by:
-* [SpeechFormer++](https://arxiv.org/pdf/2302.14638)
-* [Learning Landmarks](https://arxiv.org/pdf/2306.01415)
-* [S2D-Dec](https://arxiv.org/pdf/2105.07463)
+* [ProbTalk3D](https://github.com/uuembodiedsocialai/ProbTalk3D/)
+* [FaceDiffuser](https://github.com/uuembodiedsocialai/FaceDiffuser)
+ -->
 
 The README.md template is borrowed from [SyncTalk](https://github.com/ziqiaopeng/SyncTalk)
 
