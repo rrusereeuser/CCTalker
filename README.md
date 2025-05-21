@@ -8,7 +8,6 @@ The official repository of the paper [CCTalker: When Compensatory Control Theory
     <a href="https://wangryhen.github.io/HSFTalk.github.io/">Project Page</a>
     |
     <a href="[https://github.com/wangryhen/HSFTalk_Anonymous](https://github.com/rrusereeuser/CCTalker/edit/main/README.md)">Code</a> 
-    <a href="">Code</a> 
   </b>
 </p> 
 
