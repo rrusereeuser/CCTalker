@@ -7,7 +7,7 @@ The official repository of the paper [CCTalker: When Compensatory Control Theory
     | 
     <a href="https://rrusereeuser.github.io/CCTalker.github.io/">Project Page</a>
     |
-    <a href="https://github.com/rrusereeuser/CCTalker">Code</a> 
+    <a href="https://anonymous.4open.science/r/CCTalker-D626/README.md">Code</a> 
   </b>
 </p> 
 
