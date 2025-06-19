@@ -19,6 +19,9 @@ The official repository of the paper [CCTalker: When Compensatory Control Theory
 
 Given a speech signal as input, our framework <strong>CCTalker</strong> can generate realistic 3D talking head animtions through the Compensatory Control Theory <strong>(CCT)</strong> based diffusion processes.
 
+## Demos
+- Please click the Project Page.
+
 ## TODO
 - [x] **Release Arxiv paper.**
 - [x] **Release Project Page.**
