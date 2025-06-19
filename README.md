@@ -14,7 +14,7 @@ The official repository of the paper [CCTalker: When Compensatory Control Theory
 <!-- Colab notebook demonstration: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Egq0_ZK5sJAAawShxC0y4JRZQuVS2X-Z?usp=sharing) -->
 
   <p align='center'>  
-    <img src='/paper_images/CCTalker.png' width='1000'/>
+    <img src='https://raw.githubusercontent.com/rrusereeuser/nips25/main/paper_images/CCTalker.png' width='1000'/>
   </p>
 
 Given a speech signal as input, our framework <strong>CCTalker</strong> can generate realistic 3D talking head animtions through the Compensatory Control Theory <strong>(CCT)</strong> based diffusion processes.
